@@ -4,4 +4,4 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: https://dubaiescortinfo.com/sitemap.xml
+Sitemap: https://dubaiescortvip.net/sitemap.xml
